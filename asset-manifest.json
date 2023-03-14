@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/meeter-client/static/css/main.073c9b0a.css",
-    "main.js": "/meeter-client/static/js/main.7d31b45c.js",
-    "static/js/787.6e7ac549.chunk.js": "/meeter-client/static/js/787.6e7ac549.chunk.js",
+    "main.css": "/meeter-client/static/css/main.4e1cd19a.css",
+    "main.js": "/meeter-client/static/js/main.a070c340.js",
     "index.html": "/meeter-client/index.html",
-    "main.073c9b0a.css.map": "/meeter-client/static/css/main.073c9b0a.css.map",
-    "main.7d31b45c.js.map": "/meeter-client/static/js/main.7d31b45c.js.map",
-    "787.6e7ac549.chunk.js.map": "/meeter-client/static/js/787.6e7ac549.chunk.js.map"
+    "main.4e1cd19a.css.map": "/meeter-client/static/css/main.4e1cd19a.css.map",
+    "main.a070c340.js.map": "/meeter-client/static/js/main.a070c340.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7d31b45c.js"
+    "static/css/main.4e1cd19a.css",
+    "static/js/main.a070c340.js"
   ]
 }
