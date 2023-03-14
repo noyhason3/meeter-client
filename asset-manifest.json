@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.ea30ab7d.js",
-    "static/js/787.6e7ac549.chunk.js": "/static/js/787.6e7ac549.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.ea30ab7d.js.map": "/static/js/main.ea30ab7d.js.map",
-    "787.6e7ac549.chunk.js.map": "/static/js/787.6e7ac549.chunk.js.map"
+    "main.css": "/meter-client/static/css/main.073c9b0a.css",
+    "main.js": "/meter-client/static/js/main.cf368c8e.js",
+    "static/js/787.6e7ac549.chunk.js": "/meter-client/static/js/787.6e7ac549.chunk.js",
+    "index.html": "/meter-client/index.html",
+    "main.073c9b0a.css.map": "/meter-client/static/css/main.073c9b0a.css.map",
+    "main.cf368c8e.js.map": "/meter-client/static/js/main.cf368c8e.js.map",
+    "787.6e7ac549.chunk.js.map": "/meter-client/static/js/787.6e7ac549.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ea30ab7d.js"
+    "static/js/main.cf368c8e.js"
   ]
 }
