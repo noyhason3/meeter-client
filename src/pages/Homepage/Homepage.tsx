@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { useAppDispatch, useAppSelector } from '../../app/hooks';
 import { useFetchUsersQuery } from '../../features/users/usersApiSlice';
 import { changeName, changeNameByInput } from '../../features/users/usersSlice';
@@ -13,6 +13,12 @@ export const Homepage = () => {
         // dispatch(changeName()); 
         dispatch(changeNameByInput('Maya'));
     }
+
+    const x = process.env.REACT_APP_SERVER_URL_DEV;
+    useEffect(() => {
+        console.log(x);
+
+    }, [x])
 
     return (
         <div className="homepage">
